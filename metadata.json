@@ -1,0 +1,5 @@
+{
+  "name": "OpsMaster Resource Planner",
+  "description": "A high-end resource management and productivity planning dashboard featuring capacity constraints, volume-based logic, and interactive visualizations.",
+  "requestFramePermissions": []
+}
